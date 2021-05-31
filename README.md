@@ -1,12 +1,15 @@
 # toshi120
-<a href=“https://toshi120.github.io/”>
-  <img align=“left” src=“https://github-readme-stats.vercel.app/api?username=toshi120&count_private=true&show_icons=true&include_all_commits=true” />
+# nakshima1125
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=toshi120&count_private=true&show_icons=true&include_all_commits=true" />
 </span>
-<a href=“https://toshi120.github.io/”>
-  <img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=toshi120&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&card_width=500”/>
-</a>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshi120&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&card_width=500"/>
+</span>
 <p>
+  
   ![trophies](https://github-profile-trophy.vercel.app/?username=toshi120&column=7&margin-w=8)
+
 <p>
 <!--
 **toshi120/toshi120** is a :ピカピカ: _special_ :ピカピカ: repository because its `README.md` (this file) appears on your GitHub profile.

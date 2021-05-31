@@ -1,10 +1,10 @@
 # toshi120
-<span>
+<a href=“https://tanacchi.github.io/”>
   <img align=“left” src=“https://github-readme-stats.vercel.app/api?username=toshi120&count_private=true&show_icons=true&include_all_commits=true” />
 </span>
-<span>
+<a href=“https://toshi120.github.io/”>
   <img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=toshi120&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&card_width=500”/>
-</span>
+</a>
 <p>
   ![trophies](https://github-profile-trophy.vercel.app/?username=toshi120&column=7&margin-w=8)
 <p>
